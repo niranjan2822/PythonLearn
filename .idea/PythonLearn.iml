@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Niranjan_Practise" />
+    <orderEntry type="module" module-name="Selenium_practise1" />
+    <orderEntry type="module" module-name="Interview_Py" />
+    <orderEntry type="module" module-name="list" />
+    <orderEntry type="module" module-name="Reverse string" />
+    <orderEntry type="module" module-name="hello" />
+  </component>
+</module>

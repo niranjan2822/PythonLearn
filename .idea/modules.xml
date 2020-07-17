@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Interview_Py/.idea/Interview_Py.iml" filepath="$PROJECT_DIR$/../Interview_Py/.idea/Interview_Py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Niranjan_Practise/.idea/Niranjan_Practise.iml" filepath="$PROJECT_DIR$/../Niranjan_Practise/.idea/Niranjan_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonLearn.iml" filepath="$PROJECT_DIR$/.idea/PythonLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reverse string/.idea/Reverse string.iml" filepath="$PROJECT_DIR$/../Reverse string/.idea/Reverse string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_practise1/.idea/Selenium_practise1.iml" filepath="$PROJECT_DIR$/../Selenium_practise1/.idea/Selenium_practise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello/.idea/hello.iml" filepath="$PROJECT_DIR$/../hello/.idea/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../list/.idea/list.iml" filepath="$PROJECT_DIR$/../list/.idea/list.iml" />
+    </modules>
+  </component>
+</project>
